@@ -223,11 +223,6 @@ MIT License. Подробнее в файле [LICENSE](LICENSE).
 
 ---
 
-## 👨‍💻 Автор
-
-**Ваше Имя**  
-[![GitHub](https://img.shields.io/badge/GitHub-username-black)](https://github.com/username)  
-[![Telegram](https://img.shields.io/badge/Telegram-@username-blue)](https://t.me/username)
 
 ---
 
